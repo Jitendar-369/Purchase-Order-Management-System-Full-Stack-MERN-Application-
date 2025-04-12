@@ -1,1 +1,1 @@
-# Colon-cancer-detection-
+# Smart Attendance System (Facial Recognition)
