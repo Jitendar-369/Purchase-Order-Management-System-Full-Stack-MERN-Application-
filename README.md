@@ -1,1 +1,1 @@
-# Smart Attendance System (Facial Recognition)
+#Purchase Order Management System (Full-Stack MERN Application)
